@@ -1,6 +1,6 @@
 # Investment Calculator App
 
-![Next.js](https://img.shields.io/badge/Video%20Game%20Database-Next.js-blue.svg)
+![Next.js](https://img.shields.io/badge/Next.js-blue.svg)
 ![Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-green.svg)
 ![Prettier](https://img.shields.io/badge/Code%20Formatter-Prettier-orange.svg)
 ![Typescript](https://img.shields.io/badge/Language-Typescript-blue.svg)
