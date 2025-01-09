@@ -1,13 +1,12 @@
 # Investment Calculator App
 
-![Next.js](https://img.shields.io/badge/Next.js-blue.svg)
+![Next.js](https://img.shields.io/badge/Made%20with-Next.js-blue.svg)
 ![Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-green.svg)
 ![Prettier](https://img.shields.io/badge/Code%20Formatter-Prettier-orange.svg)
 ![Typescript](https://img.shields.io/badge/Language-Typescript-blue.svg)
 
 ## Description
 
-Video Game Database App is a Next.js-based application that provides information on various video games using the RAWG API. This project was developed to practice and deepen my understanding of the Next.js framework, along with utilizing Tailwind CSS, Prettier, and Typescript.
 The investment calculator is a Next.js-based application that helps you calculate how much you can earn by investing in various assets. This project was developed to practice and deepen my understanding of the Next.js framework, along with utilizing Tailwind CSS, Prettier, and Typescript.
 
 ## Table of Contents
