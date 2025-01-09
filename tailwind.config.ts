@@ -12,8 +12,15 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        poppins: ["Poppins", "sans-serif"],
+      },
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")], // DaisyUI plugin hozzáadása
+  daisyui: {
+    themes: ["halloween"], // DaisyUI theme konfiguráció
+  },
 };
+
 export default config;

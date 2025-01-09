@@ -28,7 +28,14 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <div
+          data-theme="halloween"
+          className="flex flex-col  bg-[url('/investment.jpg')] max-md:bg-[url('/investment-mobile.jpg')] bg-cover bg-center"
+        >
+          <div className="flex flex-col gap-5 py-12 px-2 items-center bg-black/50 w-full min-h-[100svh] font-poppins">
+            {children}
+          </div>
+        </div>
       </body>
     </html>
   );
