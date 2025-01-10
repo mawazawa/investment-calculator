@@ -18,6 +18,7 @@ export default function Select({ label, name, handleChange }: SelectProps) {
         name={name}
         onChange={handleChange}
       >
+        <option value="0.05">Bond 5%: 5%</option>
         <option value="0.105">S&P500 - AAR: 10.5%</option>
         <option value="0.138">Nasdaq - AAR: 13.8%</option>
         <option value="1.03">Bitcoin - AAR: 103%</option>
